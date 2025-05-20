@@ -49,6 +49,6 @@ To explore these interactive dashboards and gain insights:
 
 -   Locate and download the `.twbx` (Tableau Packaged Workbook) file from this GitHub repository.
 -   You will need Tableau Desktop installed on your computer to open and interact with the file.
--   You can also view the gif demo for the interactive dashboard here: ![Dashboard Demo](dashboard-demo.gif)
+-   You can also view the gif demo for the interactive dashboard here: ![Dashboard Demo](Tableau_First_Project.gif)
 
 By leveraging these dashboards, real estate stakeholders can make data-driven decisions to optimize their Airbnb hosting strategies in the competitive Seattle market.
