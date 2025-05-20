@@ -49,7 +49,7 @@ To explore these interactive dashboards and gain insights:
 
 -   Locate and download the `.twbx` (Tableau Packaged Workbook) file from this GitHub repository.
 -   You will need Tableau Desktop installed on your computer to open and interact with the file.
--   Or, use the tableau public link here for easy access: https://public.tableau.com/app/profile/ankur.goon/viz/FinalTableauProject_17477822432000/Dashboard2?publish=yes 
+-   Or, use the tableau public link here for easy access (You can view all the sheets and dashboards using the settings on the top-right): https://public.tableau.com/app/profile/ankur.goon/viz/FinalTableauProject_17477822432000/Dashboard2?publish=yes 
 -   You can also view the gif demo for the interactive dashboard here: ![Dashboard Demo](Tableau_First_Project.gif)
 
 By leveraging these dashboards, real estate stakeholders can make data-driven decisions to optimize their Airbnb hosting strategies in the competitive Seattle market.
